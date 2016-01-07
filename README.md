@@ -1,0 +1,2 @@
+# zebra.label.printer
+PROGRAM  DO WYDRUKU ETYKIET Z PLIKU TEKSTOWEGO
